@@ -31,11 +31,10 @@ Welcome to the Softdrive user guide!
 Table of contents:
 
 .. toctree::
-   :maxdepth: 1
-   :numbered:
+   :maxdepth: 3
 
-   .. Pages/about
-   .. Pages/getting_help
+   Pages/softdrive
+   Pages/getting_help
 
 
 
