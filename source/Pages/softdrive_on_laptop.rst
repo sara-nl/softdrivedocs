@@ -241,6 +241,7 @@ Mac OS, Centos, Ubuntu
 * Make sure that Squid is running:
 
 .. code-block:: bash
+
 	$ service squid restart
 
 
